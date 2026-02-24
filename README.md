@@ -1,5 +1,7 @@
-# 💫 About Me:
-I’m currently working on<br><br>Full-stack web development projects<br><br>Building frontend features and backend APIs<br><br>Improving problem-solving with DSA alongside development<br><br>👯 I’m looking to collaborate on<br><br>Full-stack web applications<br><br>Frontend (React) or Backend (Node / APIs) projects<br><br>Beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br><br>System design for full-stack apps<br><br>Best practices for scalable frontend and backend architecture<br><br>Real-world project structure and deployment<br><br>🌱 I’m currently learning<br><br>Full-stack development (Frontend + Backend)<br><br>Modern frontend frameworks and backend APIs<br><br>Databases, authentication, and deployment<br><br>💬 Ask me about<br><br>Full-stack learning roadmap<br><br>Frontend and backend basics<br><br>Balancing DSA with development<br><br>⚡ Fun fact<br><br>I’m building projects while learning full-stack and improving every day 🚀<br>
+# 👋 Hi, I’m Furqan
+I’m a full-stack web development learner focused on building real-world projects using modern frontend and backend technologies. Alongside development, I continuously strengthen my problem-solving and DSA skills to grow as a well-rounded software engineer.
+I’m interested in collaborating on full-stack applications, React frontends, Node.js backends, and beginner-friendly open-source projects. I’m also exploring scalable system design, clean architecture, and practical deployment workflows.
+Currently, I’m learning full-stack development in depth — including databases, authentication, APIs, and modern development practices. 🚀<br>
 
 
 ## 🌐 Socials:
