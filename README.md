@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Furqan
+
 I’m a full-stack web development learner focused on building real-world projects using modern frontend and backend technologies. Alongside development, I continuously strengthen my problem-solving and DSA skills to grow as a well-rounded software engineer.
+
 I’m interested in collaborating on full-stack applications, React frontends, Node.js backends, and beginner-friendly open-source projects. I’m also exploring scalable system design, clean architecture, and practical deployment workflows.
+
 Currently, I’m learning full-stack development in depth — including databases, authentication, APIs, and modern development practices. 🚀<br>
 
 
