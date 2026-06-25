@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Furqan
 
-Full-stack developer. Building real products, shipping fast.
+𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗿𝗲𝗮𝗹 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀, 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗳𝗮𝘀𝘁.
 
 ▸ Built [Brainly AI](https://brainly-ai-frontend.vercel.app/) — RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
 ▸ 🚧 Currently building **DevPrep** — AI-powered interview practice platform with live code execution (Judge0 + Claude API)
