@@ -1,10 +1,11 @@
-# 👋 Hi, I’m Furqan
+# 👋 Hi, I'm Furqan
 
-I’m a full-stack web development learner focused on building real-world projects using modern frontend and backend technologies. Alongside development, I continuously strengthen my problem-solving and DSA skills to grow as a well-rounded software engineer.
+Full-stack developer. Building real products, shipping fast.
 
-I’m interested in collaborating on full-stack applications, React frontends, Node.js backends, and beginner-friendly open-source projects. I’m also exploring scalable system design, clean architecture, and practical deployment workflows.
-
-Currently, I’m learning full-stack development in depth — including databases, authentication, APIs, and modern development practices. 🚀<br>
+▸ Built [Brainly AI](https://brainly-ai-frontend.vercel.app/) — RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
+▸ 🚧 Currently building **DevPrep** — AI-powered interview practice platform with live code execution (Judge0 + Claude API)
+▸ 190+ commits last year · 21 PRs merged
+▸ Grinding DSA → [LeetCode](https://leetcode.com/u/FURQAN_07/)
 
 
 ## 🌐 Socials:
