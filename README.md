@@ -17,10 +17,12 @@
 
 ## 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mr__furqan7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Furqan.)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/B_Furqan07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bodarnifurqan07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__furqan7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furqan-bodarni-132378327)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/B_Furqan07)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodarnifurqan07@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FURQAN_07/)
+[![Brainly AI](https://img.shields.io/badge/Brainly%20AI-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://brainly-ai-frontend.vercel.app/)
 
 ---
 
