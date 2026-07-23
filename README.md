@@ -1,78 +1,101 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=B8C6D0&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Furqan;𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿;𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴+𝗿𝗲𝗮𝗹+𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀;𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴+𝗳𝗮𝘀𝘁.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=190&section=header&text=Furqan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20to%20SWE%20Internships%202026&descAlignY=58&descSize=16&animation=fadeIn" alt="header banner"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=B8C6D0&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Furqan;𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿;𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴+𝗿𝗲𝗮𝗹+𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀;𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴+𝗳𝗮𝘀𝘁.)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+### 🚀 Quick facts
 
-𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗿𝗲𝗮𝗹 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀, 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝗳𝗮𝘀𝘁.
-
-▸ 𝗕𝘂𝗶𝗹𝘁 [𝗕𝗿𝗮𝗶𝗻𝗹𝘆 𝗔𝗜](https://brainly-ai-frontend.vercel.app/) — 𝗥𝗔𝗚-𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗮𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 (𝗡𝗲𝘅𝘁.𝗷𝘀 + 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟 + 𝗡𝗼𝗺𝗶𝗰 𝗲𝗺𝗯𝗲𝗱𝗱𝗶𝗻𝗴𝘀) <br/>
-▸ 🚧 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗣𝗿𝗲𝗽 — 𝗔𝗜 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝘄𝗶𝘁𝗵 𝗹𝗶𝘃𝗲 𝗰𝗼𝗱𝗲 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 (𝗝𝘂𝗱𝗴𝗲𝟬 + 𝗖𝗹𝗮𝘂𝗱𝗲 𝗔𝗣𝗜) <br/>
-▸ 20𝟬+ 𝗰𝗼𝗺𝗺𝗶𝘁𝘀 𝗹𝗮𝘀𝘁 𝘆𝗲𝗮𝗿 · 𝟮𝟭 𝗣𝗥𝘀 𝗺𝗲𝗿𝗴𝗲𝗱 <br/>
-▸ 𝗚𝗿𝗶𝗻𝗱𝗶𝗻𝗴 𝗗𝗦𝗔 → [𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲](https://leetcode.com/u/FURQAN_07/) <br/>
-
----
-
-## 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr__furqan7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furqan-bodarni-132378327)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/B_Furqan07)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodarnifurqan07@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FURQAN_07/)
-[![Brainly AI](https://img.shields.io/badge/Brainly%20AI-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://brainly-ai-frontend.vercel.app/)
+- 🔭 Built **[Brainly AI](https://brainly-ai-frontend.vercel.app/)** — a RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
+- 🧠 Currently building **DevPrep** — an AI interview-practice platform with live code execution (Judge0 + Claude API)
+- 📈 500+ problems solved across LeetCode/coding platforms · 21 PRs merged · 200+ commits last year
+- 🎓 2nd-year BCA student, self-taught full-stack dev, actively looking for **Software Engineering internships**
+- 📫 Reach me at **bodarnifurqan07@gmail.com**
 
 ---
 
-## 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+## 🔗 Connect with me
 
-**𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀**
+<p align="left">
+  <a href="https://github.com/Furqan-7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" style="border-radius:14px;margin:4px;"/></a>
+  <a href="https://linkedin.com/in/furqan-bodarni-132378327" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" style="border-radius:14px;margin:4px;"/></a>
+  <a href="https://x.com/B_Furqan07" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="52" height="52" alt="X / Twitter" style="border-radius:14px;margin:4px;"/></a>
+  <a href="https://instagram.com/mr__furqan7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="52" height="52" alt="Instagram" style="border-radius:14px;margin:4px;"/></a>
+  <a href="mailto:bodarnifurqan07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" style="border-radius:14px;margin:4px;"/></a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**𝗧𝗼𝗼𝗹𝘀**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+> ⚠️ Your uploaded README has two different LinkedIn slugs (`furqan-132378327` vs `furqan-bodarni-132378327`) — I kept the one from this file. Double-check which one is live before you push.
 
 ---
 
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+## 🧰 Tech Stack
+
+**Languages**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,py,java&theme=dark" alt="languages"/>
+</p>
+
+**Frameworks, Runtimes & Databases**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,bun,postgres,prisma,mongodb,mysql&theme=dark&perline=10" alt="frameworks and databases"/>
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,workers,postman,figma,pnpm,vscode&theme=dark&perline=10" alt="tools and platforms"/>
+</p>
+
+Also working with: **Turborepo · WebSockets · JWT Auth · Vector/Semantic Search · REST APIs**
+
+---
+
+## 🌐 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[🧠 Brainly AI](https://github.com/Furqan-7/Brainly-AI)** | Full-stack AI knowledge management platform — save, search, and chat with your own notes using RAG. | <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,prisma&theme=dark" width="120" alt="stack"/> |
+| **[🌱 SustainLife](https://github.com/Furqan-7/SustainLife)** | Gamified sustainability platform with an EcoCoins economy and Gemini-powered eco tips. | <img src="https://skillicons.dev/icons?i=ts,vite,nodejs&theme=dark" width="90" alt="stack"/> |
+| **[💬 Chat-app](https://github.com/Furqan-7/Chat-app)** | Real-time chat built on native WebSockets (the `ws` library) — no Socket.io. | <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" width="60" alt="stack"/> |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Furqan-7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="Top Languages" height="165"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Furqan-7&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Furqan-7&theme=dark&hide_border=true&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Furqan-7&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12&row=2" alt="GitHub Trophies"/>
+
+</div>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/FURQAN_07?theme=dark)](https://leetcode.com/u/FURQAN_07/)
+
+</div>
+
+> ⚠️ Same handle mismatch as above — this file used `FURQAN_07`, your memory notes list `FURQAN_07_` (trailing underscore). Confirm the correct one so the card actually pulls your stats.
+
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer&animation=fadeIn" alt="footer banner"/>
 
 <div align="center">
 
