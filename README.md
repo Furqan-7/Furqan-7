@@ -9,9 +9,9 @@
 ### 🚀 Quick facts
 
 - 🔭 Built **[Brainly AI](https://brainly-ai-frontend.vercel.app/)** — a RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
-- 🧠 Currently building **DevPrep** — an AI interview-practice platform with live code execution (Judge0 + Claude API)
-- 📈 500+ problems solved across LeetCode/coding platforms · 21 PRs merged · 200+ commits last year
-- 🎓 2nd-year BCA student, self-taught full-stack dev, actively looking for **Software Engineering internships**
+- 🧠 Currently building **DevPrep** — an AI interview-practice platform with live code execution (Judge0 + Gemini API)
+- 📈 550+ problems solved across LeetCode/coding platforms · 21 PRs merged · 200+ commits last year
+- 🎓 Computer science student, self-taught full-stack dev, actively looking for **Software Engineering internships**
 - 📫 Reach me at **bodarnifurqan07@gmail.com**
 
 ---
