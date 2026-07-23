@@ -26,8 +26,6 @@
   <a href="mailto:bodarnifurqan07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" style="border-radius:14px;margin:4px;"/></a>
 </p>
 
-> ⚠️ Your uploaded README has two different LinkedIn slugs (`furqan-132378327` vs `furqan-bodarni-132378327`) — I kept the one from this file. Double-check which one is live before you push.
-
 ---
 
 ## 🧰 Tech Stack
