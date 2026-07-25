@@ -89,7 +89,6 @@ Also working with: **Turborepo · WebSockets · JWT Auth · Vector/Semantic Sear
 
 </div>
 
-> ⚠️ Same handle mismatch as above — this file used `FURQAN_07`, your memory notes list `FURQAN_07_` (trailing underscore). Confirm the correct one so the card actually pulls your stats.
 
 ---
 
