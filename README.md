@@ -6,7 +6,7 @@
 
 </div>
 
-### 🚀 Quick facts
+### 🚀 Quick facts 
 
 - 🔭 Built **[Brainly AI](https://brainly-ai-frontend.vercel.app/)** — a RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
 - 🧠 Currently building **DevPrep** — an AI interview-practice platform with live code execution (Judge0 + Gemini API)
