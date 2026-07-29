@@ -85,7 +85,7 @@ Also working with: **Turborepo · WebSockets · JWT Auth · Vector/Semantic Sear
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/FURQAN_07?theme=dark)](https://leetcode.com/u/FURQAN_07/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/FURQAN_07_?theme=dark)](https://leetcode.com/u/FURQAN_07_/)
 
 </div>
 
