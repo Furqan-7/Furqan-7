@@ -78,7 +78,7 @@ Also working with: **Turborepo · WebSockets · JWT Auth · Vector/Semantic Sear
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Furqan-7&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12&row=2" alt="GitHub Trophies"/>
-
+ 
 </div>
 
 ## 🧩 LeetCode Stats
