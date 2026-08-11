@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:6C63FF,100:eb3a14&height=200&section=header&text=furqan.dev&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20%C2%B7%20AI%20builder%20%C2%B7%20shipping%20from%20Karnataka&descAlignY=60&descSize=15&animation=fadeIn" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:6C63FF,100:eb3a14&height=200&section=header&text=furqan.dev&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20%C2%B7%20AI%20builder%20%C2%B7%20product-minded%20engineer&descAlignY=60&descSize=15&animation=fadeIn" alt="header banner"/>
 
 </div>
 
@@ -10,10 +10,10 @@
 furqan@dev:~$ whoami
 ```
 ```
-> Furqan · BCA student, Karnataka University (self-taught, the rest of it)
+> Furqan — full-stack engineer, self-taught, product-first
 > Building DevPrep — an AI mock-interview platform with a voice interviewer
 > Shipped Brainly AI — RAG over your own PDFs, tweets, videos & notes
-> Hunting for a 2026 SWE internship seat. Full-stack / Backend / AI Eng / FDE
+> Open to 2026 SWE internships. Full-stack / Backend / AI Eng / FDE
 > Terminal is home. Dark mode is not a setting, it's a personality.
 ```
 
