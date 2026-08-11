@@ -1,100 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=190&section=header&text=Furqan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20to%20SWE%20Internships%202026&descAlignY=58&descSize=16&animation=fadeIn" alt="header banner"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=B8C6D0&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Furqan;𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿;𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴+𝗿𝗲𝗮𝗹+𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀;𝗦𝗵𝗶𝗽𝗽𝗶𝗻𝗴+𝗳𝗮𝘀𝘁.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:6C63FF,100:eb3a14&height=200&section=header&text=furqan.dev&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=full-stack%20developer%20%C2%B7%20AI%20builder%20%C2%B7%20shipping%20from%20Karnataka&descAlignY=60&descSize=15&animation=fadeIn" alt="header banner"/>
 
 </div>
 
-### 🚀 Quick facts 
+<br/>
 
-- 🔭 Built **[Brainly AI](https://brainly-ai-frontend.vercel.app/)** — a RAG-powered personal knowledge assistant (Next.js + PostgreSQL + Nomic embeddings)
-- 🧠 Currently building **DevPrep** — an AI interview-practice platform with live code execution (Judge0 + Gemini API)
-- 📈 550+ problems solved across LeetCode/coding platforms · 21 PRs merged · 200+ commits last year
-- 🎓 Computer science student, self-taught full-stack dev, actively looking for **Software Engineering internships**
-- 📫 Reach me at **bodarnifurqan07@gmail.com**
+```bash
+furqan@dev:~$ whoami
+```
+```
+> Furqan · BCA student, Karnataka University (self-taught, the rest of it)
+> Building DevPrep — an AI mock-interview platform with a voice interviewer
+> Shipped Brainly AI — RAG over your own PDFs, tweets, videos & notes
+> Hunting for a 2026 SWE internship seat. Full-stack / Backend / AI Eng / FDE
+> Terminal is home. Dark mode is not a setting, it's a personality.
+```
 
----
+<br/>
 
-## 🔗 Connect with me
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 currently
+
+```yaml
+project:    DevPrep
+role:       building the whole thing, solo
+stack:      Next.js · TypeScript · WebSockets
+feature:    Zara — voice AI interviewer
+status:     live code execution, working
+mood:       reverse-engineering my own Framer file
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 status
+
+```yaml
+looking_for:  SWE internship, 2026
+tracks:       full-stack · backend · AI eng · FDE
+solved:       500+ DSA problems, C++
+grinding:     recursion trees, game theory DP
+open_to:      product cos, AI-first startups, MAANG
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```bash
+furqan@dev:~$ cat stack.json
+```
+```json
+{
+  "languages":  ["TypeScript", "JavaScript", "C++", "Python"],
+  "frontend":   ["Next.js", "React", "Tailwind", "Framer Motion"],
+  "backend":    ["Node.js", "Express", "WebSockets", "REST", "JWT Auth"],
+  "data":       ["PostgreSQL", "Prisma", "Drizzle", "MongoDB", "Vector Search"],
+  "infra":      ["Turborepo", "Bun", "Cloudflare Workers", "Docker"],
+  "ai":         ["RAG pipelines", "LLM integration", "Semantic search"],
+  "currently_learning": ["React Three Fiber", "voice-agent pipelines"]
+}
+```
 
 <p align="left">
-  <a href="https://github.com/Furqan-7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" style="border-radius:14px;margin:4px;"/></a>
-  <a href="https://linkedin.com/in/furqan-bodarni-132378327" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" style="border-radius:14px;margin:4px;"/></a>
-  <a href="https://x.com/B_Furqan07" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="52" height="52" alt="X / Twitter" style="border-radius:14px;margin:4px;"/></a>
-  <a href="https://instagram.com/mr__furqan7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="52" height="52" alt="Instagram" style="border-radius:14px;margin:4px;"/></a>
-  <a href="mailto:bodarnifurqan07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" style="border-radius:14px;margin:4px;"/></a>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,py,react,nextjs,tailwind,nodejs,express,postgres,prisma,mongodb,bun,docker,git,figma&theme=dark&perline=8" alt="stack icons"/>
 </p>
 
----
+<br/>
 
-## 🧰 Tech Stack
+```bash
+furqan@dev:~$ ls projects/ --sort=impact
+```
 
-**Languages**
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🎙️ DevPrep**
+AI interview platform with a live voice interviewer, real-time code execution, instant feedback. The project I open every day right now.
+
+</td>
+<td width="33%" valign="top">
+
+**🧠 Brainly AI**
+RAG-powered second brain — ingest PDFs, YouTube, tweets, notes. Ask it anything you've ever fed it back.
+
+</td>
+<td width="33%" valign="top">
+
+**🌱 SustainLife**
+Gemini-powered sustainability app with an EcoCoins reward economy. Gamifying good habits.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/Furqan-7/Brainly-AI"><img src="https://img.shields.io/badge/Brainly_AI-view_repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Furqan-7/SustainLife"><img src="https://img.shields.io/badge/SustainLife-view_repo-eb3a14?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Furqan-7/Chat-app"><img src="https://img.shields.io/badge/Chat--app-view_repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
+
+```bash
+furqan@dev:~$ curl -s furqan.dev/contact
+```
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,py,java&theme=dark" alt="languages"/>
+  <a href="https://github.com/Furqan-7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" style="border-radius:12px;margin:4px;"/></a>
+  <a href="https://linkedin.com/in/furqan-bodarni-132378327" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" style="border-radius:12px;margin:4px;"/></a>
+  <a href="https://x.com/B_Furqan07" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X / Twitter" style="border-radius:12px;margin:4px;"/></a>
+  <a href="https://instagram.com/mr__furqan7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" style="border-radius:12px;margin:4px;"/></a>
+  <a href="mailto:bodarnifurqan07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" style="border-radius:12px;margin:4px;"/></a>
 </p>
 
-**Frameworks, Runtimes & Databases**
+```bash
+furqan@dev:~$ echo "if you're hiring interns, this is your sign"
+> if you're hiring interns, this is your sign
+```
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,bun,postgres,prisma,mongodb,mysql&theme=dark&perline=10" alt="frameworks and databases"/>
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,workers,postman,figma,pnpm,vscode&theme=dark&perline=10" alt="tools and platforms"/>
-</p>
-
-Also working with: **Turborepo · WebSockets · JWT Auth · Vector/Semantic Search · REST APIs**
-
----
-
-## 🌐 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[🧠 Brainly AI](https://github.com/Furqan-7/Brainly-AI)** | Full-stack AI knowledge management platform — save, search, and chat with your own notes using RAG. | <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,prisma&theme=dark" width="120" alt="stack"/> |
-| **[🌱 SustainLife](https://github.com/Furqan-7/SustainLife)** | Gamified sustainability platform with an EcoCoins economy and Gemini-powered eco tips. | <img src="https://skillicons.dev/icons?i=ts,vite,nodejs&theme=dark" width="90" alt="stack"/> |
-| **[💬 Chat-app](https://github.com/Furqan-7/Chat-app)** | Real-time chat built on native WebSockets (the `ws` library) — no Socket.io. | <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" width="60" alt="stack"/> |
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="Top Languages" height="165"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Furqan-7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Furqan-7&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12&row=2" alt="GitHub Trophies"/>
- 
-</div>
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/FURQAN_07_?theme=dark)](https://leetcode.com/u/FURQAN_07_/)
-
-</div>
-
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer&animation=fadeIn" alt="footer banner"/>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:eb3a14,50:6C63FF,100:0f0f1a&height=100&section=footer&animation=fadeIn" alt="footer banner"/>
 
 [![](https://visitcount.itsvg.in/api?id=Furqan-7&icon=5&color=6)](https://visitcount.itsvg.in)
 
