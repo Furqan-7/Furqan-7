@@ -4,11 +4,7 @@
 <tr>
 <td align="center">
 
-## Furqan Bodarni — Full-Stack Developer
-
-Building AI-native products end to end — voice pipelines, RAG systems, and everything between.
-
-[LinkedIn](https://linkedin.com/in/furqan-bodarni-132378327) · [X](https://x.com/B_Furqan07) · [GitHub](https://github.com/Furqan-7)
+**Full-stack developer. Building AI-native products, end to end.** &nbsp;&nbsp;[Portfolio](https://furqan7.dev) · [LinkedIn](https://linkedin.com/in/furqan-bodarni-132378327) · [X](https://x.com/B_Furqan07) · [GitHub](https://github.com/Furqan-7)
 
 </td>
 </tr>
@@ -18,12 +14,12 @@ Building AI-native products end to end — voice pipelines, RAG systems, and eve
 
 <br/>
 
-- 🎙️ **DevPrep** — AI-powered mock interview platform with a voice interviewer (Zara), live code execution via Judge0, and real-time feedback. The project I open every day right now.
-- 🧠 **[Brainly AI](https://github.com/Furqan-7/Brainly-AI)** — RAG-based personal knowledge assistant. Feed it PDFs, notes, tweets, and videos, then query it all back with hybrid semantic search.
-- 🔎 **[FindYourPortfolio](https://github.com/Furqan-7/FindYourPortfolio)** — A gallery of 1500+ developer portfolios, pulled from a live GitHub-sourced dataset.
-- 🧮 **LeetCode** — 400+ problems solved, strongest in graphs, DP, and binary search.
+- 🎙️ **DevPrep** — AI-powered mock interview platform · voice interviewer (Zara), live code execution via Judge0, real-time feedback
+- 🧠 **[Brainly AI](https://github.com/Furqan-7/Brainly-AI)** — RAG-based personal knowledge assistant · ingest PDFs, notes, tweets, and videos, query it all back
+- 🔎 **[FindYourPortfolio](https://github.com/Furqan-7/FindYourPortfolio)** — Gallery of 1500+ developer portfolios · pulled from a live GitHub-sourced dataset
+- 🧮 **LeetCode** — 500+ problems solved · strongest in graphs, DP, and binary search
 
-**Currently:** building DevPrep, solo — front end, backend, and the voice pipeline.
+Currently working on **DevPrep** — solo, front end to voice pipeline.
 
 <br/>
 
