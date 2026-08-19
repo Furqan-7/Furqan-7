@@ -17,7 +17,7 @@
 - 🎙️ **DevPrep** — AI-powered mock interview platform · voice interviewer (Zara),  live code execution via Judge0, real-time feedback
 - 🧠 **[Brainly AI](https://github.com/Furqan-7/Brainly-AI)** — RAG-based personal knowledge assistant · ingest PDFs, notes, tweets, and videos, query it all back
 - 🔎 **[FindYourPortfolio](https://github.com/Furqan-7/FindYourPortfolio)** — Gallery of 1500+ developer portfolios · pulled from a live GitHub-sourced dataset
-- 🧮 **LeetCode** — 400+ problems solved · strongest in graphs, DP, and binary search
+- 🧮 **LeetCode** — 500+ problems solved · strongest in graphs, DP, and binary search
 
 Currently working on **DevPrep** — solo, front end to voice pipeline.
 
