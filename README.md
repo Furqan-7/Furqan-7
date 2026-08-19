@@ -19,7 +19,7 @@
 - 🔎 **[FindYourPortfolio](https://github.com/Furqan-7/FindYourPortfolio)** — Gallery of 1500+ developer portfolios · pulled from a live GitHub-sourced dataset
 - 🧮 **LeetCode** — 500+ problems solved · strongest in graphs, DP, and binary search
 
-Currently working on **DevPrep** — solo, front end to voice pipeline.
+Currently working on **DevPrep** — solo , front end to voice pipeline.
 
 <br/>
 
