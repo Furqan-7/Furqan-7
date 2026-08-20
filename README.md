@@ -60,4 +60,4 @@ Currently working on **DevPrep** — solo , front end to voice pipeline.
 [![Instagram](https://img.shields.io/badge/Instagram-mr__furqan7-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mr__furqan7)
 [![Gmail](https://img.shields.io/badge/Email-bodarnifurqan07-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bodarnifurqan07@gmail.com)
 
-</div>
+</div>    
