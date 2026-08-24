@@ -30,33 +30,32 @@ Currently working on **DevPrep** — solo, front end to voice pipeline.
 
 ### 🛠️ Skills
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp" width="120"/>
-
-**Web Fundamentals**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" width="120"/>
-
-**Frontend Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="120"/>
-
-**Backend & Architecture**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" width="80"/>
-
-**Databases & ORM**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" width="120"/>
-
-**Cloud, DevOps & Practices**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" width="200"/>
-
-</div>
+<table>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,cpp" height="32"/></td>
+</tr>
+<tr>
+<td align="right"><b>Web Fundamentals</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js" height="32"/></td>
+</tr>
+<tr>
+<td align="right"><b>Frontend Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="32"/></td>
+</tr>
+<tr>
+<td align="right"><b>Backend & Architecture</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express" height="32"/></td>
+</tr>
+<tr>
+<td align="right"><b>Databases & ORM</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" height="32"/></td>
+</tr>
+<tr>
+<td align="right"><b>Cloud, DevOps & Practices</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" height="32"/></td>
+</tr>
+</table>
 
 <br/>
 
