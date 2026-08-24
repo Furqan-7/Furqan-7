@@ -28,40 +28,35 @@ Currently working on **DevPrep** — solo, front end to voice pipeline.
 
 <br/>
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 <p align="center">
-<b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp" height="36"/>
-</p>
-<p align="center">
-<b>Web Fundamentals</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="36"/>
-</p>
-<p align="center">
-<b>Frontend Frameworks</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="36"/>
-</p>
-<p align="center">
-<b>Backend & Architecture</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="36"/>
-</p>
-<p align="center">
-<b>Databases & ORM</b><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" height="36"/>
-</p>
-<p align="center">
-<b>Cloud, DevOps & Practices</b><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" height="36"/>
+
+**Languages** <img src="https://skillicons.dev/icons?i=ts,js,cpp" height="34"/>
+
+**Frontend** <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="34"/>
+
+**Backend** <img src="https://skillicons.dev/icons?i=nodejs,express" height="34"/>
+
+**Data & Infrastructure** <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis" height="34"/>
+
+**Cloud & Tools** <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" height="34"/>
+
 </p>
 
 <br/>
 
-<div align="center">
+### 🌐 Connect
 
-<a href="https://linkedin.com/in/furqan-bodarni-132378327"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;
-<a href="https://x.com/B_Furqan07"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>&nbsp;
-<a href="https://instagram.com/mr__furqan7"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>&nbsp;
-<a href="mailto:bodarnifurqan07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<p align="center">
+  <a href="https://furqan7.dev">Portfolio</a> ·
+  <a href="https://github.com/Furqan-7">GitHub</a> ·
+  <a href="https://linkedin.com/in/furqan-bodarni-132378327">LinkedIn</a> ·
+  <a href="https://x.com/B_Furqan07">X</a> ·
+  <a href="https://leetcode.com/">LeetCode</a>
+</p>
 
-</div>
+<p align="center">
+  <a href="mailto:bodarnifurqan07@gmail.com">✉️ Email</a>
+</p>
+
