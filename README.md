@@ -1,7 +1,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td align="center">
+<td align="center">  
 
 **Full-stack developer. Building AI-native products, end to end.**   [Portfolio](https://furqan7.dev) · [LinkedIn](https://linkedin.com/in/furqan-bodarni-132378327) · [X](https://x.com/B_Furqan07) · [LeetCode](https://leetcode.com/)
 
