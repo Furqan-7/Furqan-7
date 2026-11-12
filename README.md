@@ -1,74 +1,26 @@
-<div align="center">
+<table>
+  <tr>
+    <td><b>Full Stack Developer.</b> Building and shipping AI-native products.</td>
+    <td><a href="https://furqan7.dev/">Portfolio</a> · <a href="https://www.linkedin.com/in/furqan-132378327/">LinkedIn</a> · <a href="https://x.com/B_Furqan07">X</a> · <a href="https://leetcode.com/u/FURQAN_07_/">LeetCode</a></td>
+  </tr>
+</table>
 
-<img src="./assets/banner.jpg" alt="banner" width="100%" />
+I build **RAG pipelines, real-time voice AI systems and full-stack products** with TypeScript, Node.js, PostgreSQL and AWS.
 
-<img src="./assets/walker.svg" width="100%" alt="" />
+### Projects
 
-# Hey, I'm Furqan 👋
+- [**Brainly AI**](https://github.com/Furqan-7/Brainly-AI) · AI-powered second brain · Multi-stage RAG with hybrid search, Reciprocal Rank Fusion and Cohere reranking · [Live](https://brainlyai.me/)
+- [**DevPrep**](https://github.com/Furqan-7/DevPrep) · Real-time AI voice interviews · **4.06s** from end of speech to first AI audio · **12 role tracks** · [Live](https://dev-prep-frontend.vercel.app/)
+- [**Crevo**](https://github.com/Furqan-7/Crevo) · AI operating system for creators · **48-endpoint** API · AI Copilot with **10 tools** and hybrid RAG · [Live](https://crevo-one-theta.vercel.app/)
 
-**Full-stack developer building AI-native products — frontend, backend, infrastructure, and deployment.**
+### Open Source
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-furqan7.dev-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://furqan7.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furqan-bodarni-132378327)
-[![X](https://img.shields.io/badge/X-@B__Furqan07-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/B_Furqan07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+- [**AOSSIE · DebateAI**](https://github.com/AOSSIE-Org/DebateAI) · Contributor · **2 merged PRs** · [#593](https://github.com/AOSSIE-Org/DebateAI/pull/593) Debate Room session restore · [#663](https://github.com/AOSSIE-Org/DebateAI/pull/663) mobile nav and theme selector
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,prisma,aws,tailwind,cpp&theme=dark" alt="tech stack" />
+### Competitive Programming
 
-</div>
+<img align="right" src="https://count.getloli.com/@Furqan-7?name=Furqan-7&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="profile views" height="90">
 
-<br/>
-
-## 🚀 Featured Projects
-
-### 🎙️ [DevPrep](https://dev-prep-frontend.vercel.app/) — AI mock interviews with a real-time voice interviewer
-
-Practice technical interviews with **Zara**, an AI interviewer you actually talk to.
-
-- **Speech pipeline:** Groq Whisper for transcription → Gemini for streaming responses and evaluation → Deepgram for real-time TTS
-- **Live coding rounds** with code execution through Judge0
-- **Architecture:** pnpm monorepo · Next.js · Node.js · WebSockets · cloud deployment
-
-### 🧠 [Brainly AI](https://github.com/Furqan-7/Brainly-AI) — your searchable second brain
-
-A RAG-based knowledge assistant that turns notes, PDFs, tweets, and videos into something you can ask questions of.
-
-- Ingests mixed content and retrieves answers with context from your own saved material
-- Next.js · PostgreSQL · Prisma · JWT auth · typed REST APIs
-- Deployed in production on Vercel + Railway
-
-### ✨ Crevo — an AI operating system for content creators
-
-One place for a creator's whole workflow, with an AI copilot running through it.
-
-- **Daily briefing** of what needs attention today
-- **Unified inbox** for messages across platforms
-- **Publishing + calendar** to plan and ship content
-- **Brand deals** tracking, all assisted by the built-in copilot
-
-<div align="center">
-<img src="./assets/walker.svg" width="100%" alt="" />
-</div>
-
-## 🧮 Problem Solving
-
-**550+ problems solved on LeetCode in C++.**
-Strongest in graphs, dynamic programming, trees, and binary search.
-
-<!-- Replace YOUR_USERNAME to show a live stats card:
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats" />
--->
-
-## 🌐 Open Source
-
-Contributing to open-source projects and working on real production issues — debugging, state management, reliability, and user-facing bugs.
-
-## 🔭 Right Now
-
-Building **DevPrep** end to end — from the frontend to the real-time voice pipeline.
-
-<div align="center">
-<br/>
-<img src="./assets/walker.svg" width="100%" alt="" />
-<sub>Thanks for stopping by ✦</sub>
-</div>
+- [**LeetCode**](https://leetcode.com/u/FURQAN_07_/) · **550+ problems solved** in C++ · Graphs, DP, trees, binary search
+- **Contest rating 1,715** · Top **13.08%** globally · 23 contests
+- **Rank 1,250 of 31K+** in a Biweekly Contest · Top **4%**
