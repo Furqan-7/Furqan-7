@@ -15,7 +15,7 @@ I build **RAG pipelines, real-time voice AI systems and full-stack products** wi
 
 ### Open Source
 
-- [**AOSSIE · DebateAI**](https://github.com/AOSSIE-Org/DebateAI) · Contributor · **2 merged PRs** · [#593](https://github.com/AOSSIE-Org/DebateAI/pull/593) Debate Room session restore · [#663](https://github.com/AOSSIE-Org/DebateAI/pull/663) mobile nav and theme selector
+- [**AOSSIE · DebateAI**](https://github.com/AOSSIE-Org/DebateAI) · Contributor
 
 ### Competitive Programming
 
