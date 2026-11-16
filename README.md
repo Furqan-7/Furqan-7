@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><b>Full Stack Developer.</b> Building and shipping AI-native products.</td>
+    <td><b>Full Stack Developer.</b> Building and shipping AI-native products.</td> 
     <td><a href="https://furqan7.dev/">Portfolio</a> · <a href="https://www.linkedin.com/in/furqan-132378327/">LinkedIn</a> · <a href="https://x.com/B_Furqan07">X</a> · <a href="https://leetcode.com/u/FURQAN_07_/">LeetCode</a></td>
   </tr>
 </table>
